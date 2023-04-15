@@ -2,7 +2,7 @@
 layout: post
 title: Meta4 Cards
 description: conversation tool for work and play
-image: https://junker-latocha.com/assets/images/meta4cards-printed.jpg
+image: assets/images/meta4cards-printed.jpg
 nav-menu: true
 ---
 

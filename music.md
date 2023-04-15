@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-image: assets/images/brian_elrole.jpg
+image: https://junker-latocha.com/assets/images/brian_elrole.jpg
 description: Foot-Tappin' Folk
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offenbach Social Club
-description: international fun lovers
+description: friends from around the world
 image: assets/images/streichholzkarlche.jpg
 nav-menu: true
 ---

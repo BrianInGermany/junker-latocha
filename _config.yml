@@ -12,6 +12,7 @@ city: Offenbach
 # zip_code: 55555
 country: Germany
 phone: +49 176 444 20427 
+formspree: "https://formspree.io/f/mwkjwzdn"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

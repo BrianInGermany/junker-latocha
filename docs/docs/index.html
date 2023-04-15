@@ -48,6 +48,8 @@
 		
 		    
 		
+		    
+		
 		
 		    
 		
@@ -63,6 +65,10 @@
 		
 		    
 		        <li><a href="/music.html">Music</a></li>
+		    
+		
+		    
+		        <li><a href="/social.html">Offenbach Social Club</a></li>
 		    
 		
 	</ul>
@@ -115,6 +121,16 @@
     </header>
   </article>
   
+  <article>
+    <span class="image">
+      <img src="assets/images/streichholzkarlche.jpg" alt="Offenbach Social Club" />
+    </span>
+    <header class="major">
+      <h3><a href="/social.html" class="link">Offenbach Social Club</a></h3>
+      <p>international fun lovers</p>
+    </header>
+  </article>
+  
 </section>
 
 
@@ -138,7 +154,7 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/brian@junker-latocha.com" method="POST">
+			<form action="{{ site.formspree }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />

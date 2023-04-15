@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Brian'
-description: null
-image: null
+landing-title: "Hi, my name's Brian"
+description: ideas, stories and learning 
+image: "assets/brian_udo.jpg"
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+My name's Brian, and I'm glad you stopped by. 
+
+I'm a musician and IT guy living in Offenbach, Germany with my wife and two cats. This site is a cross-section of my interests, hobbies and motivations. Have a look around, maybe we have some in common.

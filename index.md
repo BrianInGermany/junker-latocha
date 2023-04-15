@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Hi, my name's Brian"
 description: ideas, stories and learning 
-image: "assets/brian_udo.jpg"
+image: "assets/brian_udo.jpeg"
 author: null
 show_tile: false
 ---

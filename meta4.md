@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Meta4 Cards
-description: a conversation tool for work and play
+title: Sinnbilder
+description: ein Tool zum Zuhören
 image: assets/images/meta4cards-printed.jpg
 nav-menu: true
 ---
-## A Conversation Tool for Work and Play
-Meta4 Cards use opposite metaphor pictograms to stimulate discussion at your quarterly review, a job interview, a customer workshop, in the bar...
-<img src="assets/images/meta4cards-printed.jpg" alt="metacards" width="100%">
+## Ein Tool zum Zuhören  
+Ein Bild erzählt Tausend Worte...ein Sinnbild noch mehr!
 
+SINNBILDER wurden erschaffen, um Menschen zum Reflektieren zu animieren. Ob bei der Arbeit oder beim Vergnügen, wir Menschen sind mitteilsame Kreaturen.
 
+<img src="assets/images/meta4cards-3.jpg" alt="metacardsDE" width="75%">
 
-<img src="assets/images/deutschMeta4.jpg" alt="metacardsDE" width="100%">
+SINNBILDER werfen Öl auf unser kommunikatives Feuer und schaffen Raum für Perspektivenwechsel durch Sprichwörter und Metaphern, mit denen jeder Mensch seine ganz eigenen Assoziationen und Historie hat. Jede Karte zeigt zwei gegenteilige Sinnbilder.
+
+Sie sind ein Tool zum Zuhören!
+
+<img src="assets/images/meta4cards-printed.jpg" alt="metacards" width="75%">
 
 © Brian Junker-Latocha 2022

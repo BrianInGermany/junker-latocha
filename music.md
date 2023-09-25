@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Foot-Tappin' Folk
-image: "https://opencreekstringband.com/assets/img/opencreeksmiles.jpeg"
+image: "https://opencreekstringband.com/assets/img/latzfunstramu.jpeg"
 description: Open Creek Stringband
 nav-menu: true
 ---

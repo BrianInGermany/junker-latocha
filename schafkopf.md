@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schafkopf for Expats
-description: book on the godfather of german cardgames
+description: the godfather of german cardgames
 image: assets/images/schafkopf_for_expats.jpg
 nav-menu: true
 ---

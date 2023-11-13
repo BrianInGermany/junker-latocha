@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schafkopf for Expats
-description: the godfather of german cardgames
+description: book on the godfather of german cardgames
 image: assets/images/schafkopf_for_expats.jpg
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ The best (and only) book out there about Bavarian Schafkopf in English!
 
 Bavaria's national pastime is a ride of highs and lows, guaranteed to get your heart thumping and your overs trumping.
 
-Whether you're deep down in Oberbayern, or far north of the Weißwurst equator, *Schafkopf for Expats* puts all you need to know about this classic card game into plain English.
+Whether you're deep down in Oberbayern, or far beyond the Weißwurst equator, *Schafkopf for Expats* puts all you need to know about this classic card game into plain English.
 
 Life's too short to learn German?
-Life'S too short not to learn Schafkopf!
+Life's too short not to learn Schafkopf!

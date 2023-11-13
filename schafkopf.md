@@ -20,9 +20,14 @@ Whether you're deep down in Oberbayern, or far beyond the Weißwurst equator, *S
 Life's too short to learn German?
 Life's too short not to learn Schafkopf!
 
+Includes rules for 66, Schnauz, Solitaire and Three-Player Schafkopf.
+
 ## Get the book
 
 Orderable in your local bookstore from Dec. 1st, 2023:
+- 127 pages, paperback
 - 18,00€ 
 - ISBN 978-3-384-02767-2
 - Printing and distribution by tredition Verlag
+
+<a href="https://shop.tredition.com/booktitle/Schafkopf_for_Expats/W-869-807-800">Or directly via tredition Verlag</a>

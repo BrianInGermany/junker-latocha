@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Listening Tool
-description: Sinnbilder
+title: Sinnbilder
+description: a listening tool
 image: assets/images/meta4cards-printed.jpg
 nav-menu: true
 ---

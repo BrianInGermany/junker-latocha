@@ -6,10 +6,9 @@ description: ideas, stories and learning
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-# street_address: 1234 Somewhere Road
-city: Offenbach
+street_address: Herm.-Steinhäuser-Str. 18
 # state: TN
-# zip_code: 55555
+zip_code: 63065
 country: Germany
 phone: +49 176 444 20427 
 formspree: "https://formspree.io/f/mwkjwzdn"

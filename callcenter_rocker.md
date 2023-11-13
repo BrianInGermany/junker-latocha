@@ -3,7 +3,7 @@ layout: post
 title: Call Center Rock
 description: mixing business with pleasure
 image: assets/images/ccw3.png
-nav-menu: true
+nav-menu: false
 ---
 ## Mixing Business with Pleasure  
 - Youtube Channel ["Bots with a Beat"](https://www.youtube.com/@brianjunkerlatocha)

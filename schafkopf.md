@@ -19,3 +19,10 @@ Whether you're deep down in Oberbayern, or far beyond the Weißwurst equator, *S
 
 Life's too short to learn German?
 Life's too short not to learn Schafkopf!
+
+## Get the book
+
+Orderable in your local bookstore from Dec. 1st, 2023:
+- 18,00€ 
+- ISBN 978-3-384-02767-2
+- Printing and distribution by tredition Verlag

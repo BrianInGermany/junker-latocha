@@ -8,7 +8,7 @@ url: # the base hostname & protocol for your site
 author:
 street_address: Herm.-Steinhäuser-Str. 18
 # state: TN
-zip_code: 63065
+zip_code: 63065 Offenbach
 country: Germany
 phone: +49 176 444 20427 
 formspree: "https://formspree.io/f/mwkjwzdn"

@@ -23,11 +23,17 @@ Life's too short not to learn Schafkopf!
 Includes rules for 66, Schnauz, Solitaire and Three-Player Schafkopf.
 
 ## Get the book
+Starting Dec. 1st, 2023
+### From Germany, Austria or Switzerland
 
-Orderable in your local (German) bookstore from Dec. 1st, 2023:
-- 128 pages, paperback
+Orderable in your local bookstore from Dec. 1st, 2023:
+- 127 pages, paperback
 - 18,00€ 
 - ISBN 978-3-384-02767-2
 - Printing and distribution by tredition Verlag
 
-<a href="https://shop.tredition.com/booktitle/Schafkopf_for_Expats/W-869-807-800">Or directly via tredition Verlag from Dec. 1st, 2023</a>
+<a href="https://shop.tredition.com/booktitle/Schafkopf_for_Expats/W-869-807-800">Or directly via tredition Verlag</a>
+
+### From the rest of the world
+
+I recommend ordering on [amazon.de](https://amzn.eu/d/h6oqJoC) with international shipping (should be about 4€ for USA), or directly [via tredition](https://shop.tredition.com/booktitle/Schafkopf_for_Expats/W-869-807-800) (about 7€ shipping).

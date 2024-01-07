@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Creek Stringband
+title: open creek stringband
 image: "https://opencreekstringband.com/assets/img/latzfunstramu.jpeg"
 description: Foot-Tappin' Folk
 nav-menu: true

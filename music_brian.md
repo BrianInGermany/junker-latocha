@@ -7,7 +7,7 @@ nav-menu: true
 ---
 ## junker-latocha, songwriter
 
-<img src="/assets/images/elrole_brian_forest.jpg" width=70%>  
+![](/assets/images/elrole_brian_forest.jpg) 
   
 (image credit El Rolé 2021)  
 

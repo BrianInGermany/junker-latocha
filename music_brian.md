@@ -7,15 +7,20 @@ nav-menu: true
 ---
 ## junker-latocha, songwriter
 
-![](/assets/images/elrole_brian_forest.jpg) 
-  
-(image credit El Rolé 2021)  
+![](/assets/images/brian_stage.jpg) 
 
-I write my own tunes. 
+Aus dem sonnigen Florida stammend, spielt Brian Junker-Latocha, nach Umwegen über Berlin, seit einigen Jahren auch im Rhein-Main-Gebiet fußstampfenden Folk-Pop.  
 
-[youtube.com/@junker-latocha](https://www.youtube.com/@junker-latocha)
-[tiktok.com/@junkerlatocha](https://tiktok.com/@junkerlatocha)  
-[instagram.com/junkerlatocha](https://instagram.com/junkerlatocha)
+Mit seinen rhythmischen Americana-Wurzeln, sowie jeder Menge Earworm-Feeling, strahlen Brians kraftvolle Stimme und freudiger Bühnenpräsenz auf jedes gut gelaunte Publikum über.  
+
+### Album 
+Ab Ende April findet ihr ihn auch bei Spotify!
+
+### Videos
+
+[youtube.com/@junker-latocha](https://www.youtube.com/@junker-latocha)  
+[tiktok.com/@junkerlatocha](https://tiktok.com/@junkerlatocha)    
+[instagram.com/junkerlatocha](https://instagram.com/junkerlatocha)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BdObYOU_AZI?si=fHczYXA8j2vwxhkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

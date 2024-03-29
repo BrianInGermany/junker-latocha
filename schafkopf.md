@@ -37,3 +37,7 @@ Orderable in your local bookstore from Dec. 1st, 2023:
 ### From the rest of the world
 
 I recommend ordering on [amazon.de](https://amzn.eu/d/h6oqJoC) with international shipping (should be about 4€ for USA), or directly [via tredition](https://shop.tredition.com/booktitle/Schafkopf_for_Expats/W-869-807-800) (about 7€ shipping).
+
+### From the internet
+
+You can download a [free courtesy copy](https://junker-latocha.com/assets/schafkopf-junkerlatocha.pdf) here. 

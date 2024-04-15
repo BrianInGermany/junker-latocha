@@ -1,26 +1,26 @@
 ---
 layout: page
-title: junker-latocha
-image: "/assets/images/elrole_brian_forest.jpg"
-description: songwriter
+title: songwriting
+image: "/assets/images/brianCube.jpg"
+description: brian junker-latocha
 nav-menu: true
 ---
-## junker-latocha, songwriter
+## brian junker-latocha, songwriter
 
-![](/assets/images/brian_stage.jpg) 
+![](/assets/images/brianCube.jpg) 
 
 Aus dem sonnigen Florida stammend, spielt Brian Junker-Latocha, nach Umwegen über Berlin, seit einigen Jahren auch im Rhein-Main-Gebiet fußstampfenden Folk-Pop.  
 
 Mit seinen rhythmischen Americana-Wurzeln, sowie jeder Menge Earworm-Feeling, strahlen Brians kraftvolle Stimme und freudiger Bühnenpräsenz auf jedes gut gelaunte Publikum über.  
 
 ### Album 
-Ab Ende April findet ihr ihn auch bei Spotify!
+Ab Mai findet ihr ihn auch bei Spotify!
 
 ### Videos
 
 [youtube.com/@junker-latocha](https://www.youtube.com/@junker-latocha)  
-[tiktok.com/@junkerlatocha](https://tiktok.com/@junkerlatocha)    
-[instagram.com/junkerlatocha](https://instagram.com/junkerlatocha)  
+[tiktok.com/@junkerlatocha](https://tiktok.com/@brianjunkerlatocha)    
+[instagram.com/brianjunkerlatocha](https://instagram.com/brianjunkerlatocha)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BdObYOU_AZI?si=fHczYXA8j2vwxhkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

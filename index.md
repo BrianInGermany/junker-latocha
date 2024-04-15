@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: "Hi, my name's Brian"
-description: ideas, stories and learning 
-image: "assets/images/brian_udo.jpeg"
+description: ideas, stories and melodies
+image: "assets/images/briansquare.jpeg"
 author: null
 show_tile: false
 ---

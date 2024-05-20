@@ -14,7 +14,7 @@ Aus dem sonnigen Florida stammend, spielt Brian Junker-Latocha seit einigen Jahr
 
 Mit seinen rhythmischen Americana-Wurzeln, sowie jeder Menge Earworm-Feeling, strahlen Brians kraftvolle Stimme und freudiger Bühnenpräsenz auf jedes gut gelaunte Publikum über.  
 
-Ab Mai findet ihr ihn auch bei Spotify!
+Ab Juli findet ihr ihn auch bei Spotify!
 
 #### "Flooding on the James"
 

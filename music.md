@@ -14,7 +14,7 @@ Brian Junker-Latocha's rhythmic Americana roots and foot-tapping folkpop melodie
 
 On his off days, you'll find Brian stomping and strumming to the fiddle and banjo of his old-time folk band. 
 
-Rhythm & Rhyme is about bringing that feel-good folk mindset to contemporary originals that keep you looking forward and put a spring in your step while they're at it. 
+Rhythm & Rhyme is about bringing that feel-good folk mindset to contemporary originals that keep you looking forward and put a spring in your step while you're at it. 
 
 At the crossroads of americana and country, Brian's debut album goes its own way. You'll find catchy choruses, but also a depth of instrumentation that lends color and contrast. Authentic melodies combine with traditional rhythms to create the ideal roadtrip soundtrack-- whether down the Blue Ridge Parkway-- or across the Autobahn.
 

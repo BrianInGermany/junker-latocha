@@ -20,7 +20,7 @@ At the crossroads of americana and country, Brian's debut album goes its own way
 
 So buckle up, turn the key, and crank up the stereo. And let Brian Junker-Latocha make your day a ride to remember.
 
-The full album,__Rhythm & Rhyme__, will be available on all streaming platforms in July!
+The full album, __Rhythm & Rhyme__, will be available on all streaming platforms in July!
 
 #### "Flooding on the James"
 

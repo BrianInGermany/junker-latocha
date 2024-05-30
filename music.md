@@ -7,7 +7,7 @@ nav-menu: true
 ---
 ## brian junker-latocha, songwriter
 
-![](/assets/images/brianCube.jpg)  
+<img src="/assets/images/brianCube.jpg" width="500">    
 (Image Credit Annegret Höhne)  
 
 Brian Junker-Latocha's rhythmic Americana roots and foot-tapping folkpop melodies are what happens when you put an east-coast American guitar player into the fertile German soil, pour some beer over top, and wait for him to grow.
@@ -21,6 +21,9 @@ At the crossroads of americana and country, Brian's debut album goes its own way
 So buckle up, turn the key, and crank up the stereo. And let Brian Junker-Latocha make your day a ride to remember.
 
 The full album, __Rhythm & Rhyme__, will be available on all streaming platforms in July!
+
+<img src="/assets/images/album_cover.jpg" width="300">
+
 
 #### "Flooding on the James"
 

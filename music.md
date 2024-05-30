@@ -10,11 +10,17 @@ nav-menu: true
 ![](/assets/images/brianCube.jpg)  
 (Image Credit Annegret Höhne)  
 
-Aus dem sonnigen Florida stammend, spielt Brian Junker-Latocha seit einigen Jahren auch im Rhein-Main-Gebiet fußstampfenden Folk-Pop.  
+Brian Junker-Latocha's rhythmic Americana roots and foot-tapping folkpop melodies are what happens when you put an east-coast American guitar player into the fertile German soil, pour some beer over top, and wait for him to grow.
 
-Mit seinen rhythmischen Americana-Wurzeln, sowie jeder Menge Earworm-Feeling, strahlen Brians kraftvolle Stimme und freudiger Bühnenpräsenz auf jedes gut gelaunte Publikum über.  
+On his off days, you'll find Brian stomping and strumming to the fiddle and banjo of his old-time folk band. 
 
-Ab Juli findet ihr ihn auch bei Spotify!
+Rhythm & Rhyme is about bringing that same feel-good folk mindset to contemporary originals that keep you looking up and put a spring in your step while they're at it. 
+
+At the crossroads of americana and country, Brian's debut album goes its own way. You'll find catchy choruses, but also a depth of instrumentation that lends color and contrast. Authentic melodies combine with traditional rhythyms to create the ideal roadtrip soundtrack-- whether down the Blue Ridge Parkway-- or across the Autobahn.
+
+So buckle up, turn the key, and crank up the stereo. And let Brian Junker-Latocha make your day a ride to remember.
+
+The full album,__Rhythm & Rhyme__, will be available on all streaming platforms in July!
 
 #### "Flooding on the James"
 

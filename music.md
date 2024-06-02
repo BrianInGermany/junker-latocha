@@ -10,11 +10,11 @@ nav-menu: true
 <img src="/assets/images/brianCube.jpg" width="500">    
 (Image Credit Annegret Höhne)  
 
-Brian Junker-Latocha's rhythmic Americana roots and foot-tapping folkpop melodies are what happens when you put an east-coast American guitar player into the fertile German soil, pour some beer over top, and wait for him to grow.
-
-On his off days, you'll find Brian stomping and strumming to the fiddle and banjo of his old-time folk band. 
+Brian Junker-Latocha's rhythmic Americana roots and foot-tapping folkpop melodies are what happens when you put an east-coast American guitar player into the fertile German soil and pour some beer over top.
 
 Rhythm & Rhyme is about bringing that feel-good folk mindset to contemporary originals that keep you looking forward and put a spring in your step while they're at it. 
+
+On his off days, you'll find Brian stomping and strumming to the fiddle and banjo of his old-time folk band. 
 
 At the crossroads of americana and country, Brian's debut album goes its own way. You'll find catchy choruses, but also a depth of instrumentation that lends color and contrast. Authentic melodies combine with traditional rhythms to create the ideal roadtrip soundtrack-- whether down the Blue Ridge Parkway-- or across the Autobahn.
 

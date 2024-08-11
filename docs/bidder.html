@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Bidder</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="bidder">Bidder</h1>
+<h2 id="a-32-card-trick-taker-for-three-to-six-people">A 32-card trick-taker for three to six people</h2>
+<p><img src="file:///c:\Users\brian\Documents\repositories\new_game\cards.jpeg" alt=""></p>
+<h2 id="motivation">Motivation</h2>
+<p>Games like Skat, Schafkopf and other 32-card trick-takers are great fun, but too complicated to be worth learning for someone unlikely to play again. Bidder seeks to emulate the bidding and trump-choosing aspects of these games, but package them in a quick-to-learn ruleset for a flexible number of players. The key aspects of following suit and counting trumps remain valid, but hard-to-grasp elements like bidding structure or following trump with (other-suited) jacks are eliminated.</p>
+<p>In comparison to games played with a full deck, like Whist, the smaller deck makes the game more predictable.</p>
+<p>The other aim of the game is to have a nearly identical playing experience regardless of the number of players. Whether with three, four, five or six, the ruleset remains the same and the game dynamics differ only minimally.</p>
+<h2 id="rules">Rules</h2>
+<h3 id="dealing">Dealing</h3>
+<p>Dealers rotate clockwise and the dealer distributes an equal number of cards to each person. The remainder (if playing with four there is no remainder) is turned face-up and shown to all players. These cards are removed from the game.</p>
+<h3 id="card-ranks">Card ranks</h3>
+<p>Cards are ranked in the following order: A K Q J 10 9 8 7.</p>
+<h3 id="following-suit">Following Suit</h3>
+<p>Like in Skat and Schafkopf, the led suit must be followed if possible. Only if you are out of that suit, may you play a trump or another card. You are never required to trump or take a trick, unless forced to because of the following-suit rule.</p>
+<h3 id="trumps">Trumps</h3>
+<p>The trump suit is chosen by the bid winner. When a player plays a trump on another suit, the trump wins the trick (unless a higher trump is played, in which case the highest trump wins).</p>
+<h3 id="bidding">Bidding</h3>
+<h4 id="choosing-trump">Choosing Trump</h4>
+<p>Bidding starts with the player left of the dealer. Each player may bid to win any number of tricks (at most as many as she has cards). The subsequent player in the circle must bid above this number to outbid. The highest bid gets to choose the trump suit. Note that winning the bid does not mean you get to play first.</p>
+<h4 id="null">Null</h4>
+<p>There is an additional bid called null, in which the bid winner attempts to win zero tricks, and there are no trumps. The value of this bid on the bidding scale is one higher than the middle bid (with a five-card hand, a null outbids a three). When there is no middle bid, the null is the next-highest bid after the imaginary middle (with an eight-card hand, a null outbids a four).</p>
+<h2 id="scoring">Scoring</h2>
+<h3 id="game-values">Game Values</h3>
+<p>Each game is worth the number of tricks bid. The null bid is the exception, and is worth as much as the middle bid or one more than the imaginary middle).</p>
+<h3 id="winning-and-losing">Winning and Losing</h3>
+<p>If a bid is successful, the winner gets the bid value payed in points from every other player. If the amount bid is not reached, the bidder must pay each other player this number of points.</p>
+<h3 id="zero-sum">Zero Sum</h3>
+<p>This has as a consequence that each game sums up to zero, with either the bid winner in a big plus, or the bid winner in a big minus and all others in a small plus or minus.</p>
+<h2 id="variants">Variants</h2>
+<h3 id="contra">Contra</h3>
+<p>Before playing his or her first card, a defender may declare contra to double the score of the game-- whether won or lost. The scores will still add up to zero.</p>
+<h3 id="doubling">Doubling</h3>
+<p>Players can double game value after inspecting the first half of their cards by knocking on the table. The scores will still add up to zero.</p>
+
+            
+            
+        </body>
+        </html>
